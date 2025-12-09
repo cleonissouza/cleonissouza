@@ -41,8 +41,9 @@ Travel cost calculator with a clean multi-step UI built using XML and Kotlin.
 ## 📊 GitHub Stats
 
 ![Francisco's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cleonissouza&show_icons=true&theme=onedark)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleonissouza&layout=compact&theme=onedark&border_radius=10)   
+ <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
+          
 
    ## 📫 Contact
 📧 cleonis-cls@outlook.com  

@@ -11,20 +11,25 @@
 
 ## 🎨 ArtistList — Jetpack Compose App
 ArtistList is a simple and modern Android app built with Jetpack Compose.
-It displays a feed-style list of famous artists and their artworks, focusing on clean UI and Compose fundamentals.
-👉 https://github.com/cleonissouza/ArtistList
+It displays a feed-style list of famous artists and their artworks, focusing on clean UI and Compose fundamentals.   
+👉 https://github.com/cleonissouza/ArtistList   
+
+## 🎮 GamePocket (Contibution)
+GamePocket is an Android application for browsing and managing favorite games, utilizing the RAWG.io API.    
+The project features a modular architecture, including integration with the local Room database and communication via Retrofit.    
+👉 https://github.com/cleonissouza/GamePocket
 
 ### 📋 *Task Beat*
-Task management app with custom categories, task creation, editing, filtering, and Room Database.
+Task management app with custom categories, task creation, editing, filtering, and Room Database.   
 👉 https://github.com/cleonissouza/TaskBeat
 
 ### 📦 *EsquiloStock* (Contibution)
 Inventory control app using Room Database, RecyclerView, ViewModel and CRUD operations.   
-I am contributing to the EsquiloStock project (originally created by another developer).
+I am contributing to the EsquiloStock project (originally created by another developer).    
 👉 https://github.com/Elieudosilva/EsquiloStock
 
 ### ⛽ *Fuel Cost Calculator*
-Travel cost calculator with a clean multi-step UI built using XML and Kotlin.
+Travel cost calculator with a clean multi-step UI built using XML and Kotlin.   
 👉 https://github.com/cleonissouza/FuelCalculator
 
 ---

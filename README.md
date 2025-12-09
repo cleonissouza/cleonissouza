@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Francisco Souza
 
-<!--
-**cleonissouza/cleonissouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 *Android Developer (Kotlin)*  
+🌍 Based in Bristol, United Kingdom  
+🚀 Focused on building clean, modern, and functional native Android apps  
+🎯 Goal: Become a Junior Android Developer in the UK
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Main Projects
+
+### 📋 *Task Beat*
+Task management app with custom categories, task creation, editing, filtering, and Room Database.
+👉 https://github.com/cleonissouza/TaskBeat
+
+### 📦 *EsquiloStock*
+Inventory control app using Room Database, RecyclerView, ViewModel and CRUD operations.   
+I am contributing to the EsquiloStock project (originally created by another developer).
+👉 https://github.com/Elieudosilva/EsquiloStock
+
+### ⛽ *Fuel Cost Calculator*
+Travel cost calculator with a clean multi-step UI built using XML and Kotlin.
+👉 https://github.com/cleonissouza/FuelCalculator
+
+---
+
+## 🛠 Tech Stack
+- Kotlin  
+- Android Studio  
+- Jetpack Compose  
+- XML Layouts  
+- Room Database  
+- Retrofit / API consumption  
+- RecyclerView  
+- MVVM  
+- Coroutines  
+- Git & GitHub  
+
+---
+
+## 📫 Contact
+📧 cleonis-cls@outlook.com  
+🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/  
+🔗 GitHub: https://github.com/cleonissouza

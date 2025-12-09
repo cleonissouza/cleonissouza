@@ -13,7 +13,7 @@
 Task management app with custom categories, task creation, editing, filtering, and Room Database.
 👉 https://github.com/cleonissouza/TaskBeat
 
-### 📦 *EsquiloStock*
+### 📦 *EsquiloStock* (Contibution)
 Inventory control app using Room Database, RecyclerView, ViewModel and CRUD operations.   
 I am contributing to the EsquiloStock project (originally created by another developer).
 👉 https://github.com/Elieudosilva/EsquiloStock
@@ -38,16 +38,16 @@ Travel cost calculator with a clean multi-step UI built using XML and Kotlin.
 
 ---
 
-## 📫 Contact
-📧 cleonis-cls@outlook.com  
-🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/  
-🔗 GitHub: https://github.com/cleonissouza
-
 ## 📊 GitHub Stats
 
 ![Francisco's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cleonissouza&show_icons=true&theme=onedark)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleonissouza&layout=compact&theme=onedark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleonissouza&layout=compact&theme=onedark)   
+
+   ## 📫 Contact
+📧 cleonis-cls@outlook.com  
+🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/  
+🔗 GitHub: https://github.com/cleonissouza
 
 
 

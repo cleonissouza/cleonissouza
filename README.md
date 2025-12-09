@@ -9,6 +9,11 @@
 
 ## 🚀 Main Projects
 
+## 🎨 ArtistList — Jetpack Compose App
+ArtistList is a simple and modern Android app built with Jetpack Compose.
+It displays a feed-style list of famous artists and their artworks, focusing on clean UI and Compose fundamentals.
+👉 https://github.com/cleonissouza/ArtistList
+
 ### 📋 *Task Beat*
 Task management app with custom categories, task creation, editing, filtering, and Room Database.
 👉 https://github.com/cleonissouza/TaskBeat

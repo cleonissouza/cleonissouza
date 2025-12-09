@@ -3,7 +3,7 @@
 📱 *Android Developer (Kotlin)*  
 🌍 Based in Bristol, United Kingdom  
 🚀 Focused on building clean, modern, and functional native Android apps  
-🎯 Goal: Become a Junior Android Developer in the UK
+🎯 Currently pursuing a Junior Android Developer in the UK
 
 ---
 
@@ -32,7 +32,7 @@ Travel cost calculator with a clean multi-step UI built using XML and Kotlin.
 - Room Database  
 - Retrofit / API consumption  
 - RecyclerView  
-- MVVM  
+- MVVM
 - Coroutines  
 - Git & GitHub  
 
@@ -42,3 +42,13 @@ Travel cost calculator with a clean multi-step UI built using XML and Kotlin.
 📧 cleonis-cls@outlook.com  
 🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/  
 🔗 GitHub: https://github.com/cleonissouza
+
+## 📊 GitHub Stats
+
+![Francisco's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cleonissouza&show_icons=true&theme=onedark)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleonissouza&layout=compact&theme=onedark)
+
+
+
+

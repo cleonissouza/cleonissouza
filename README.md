@@ -7,6 +7,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Francisco's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cleonissouza&show_icons=true&theme=onedark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleonissouza&layout=compact&theme=onedark&border_radius=10)   
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+
+
 ## 🚀 Main Projects
 
 ## 🎨 ArtistList — Jetpack Compose App
@@ -47,16 +55,7 @@ Travel cost calculator with a clean multi-step UI built using XML and Kotlin.
 - Git & GitHub  
 
 ---
-
-## 📊 GitHub Stats
-
-![Francisco's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cleonissouza&show_icons=true&theme=onedark)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleonissouza&layout=compact&theme=onedark&border_radius=10)   
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
           
-          
-
    ## 📫 Contact
 📧 cleonis-cls@outlook.com  
 🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/  

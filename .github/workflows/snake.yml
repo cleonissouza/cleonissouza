@@ -23,8 +23,9 @@ jobs:
         run: |
           echo "<html><body><img src='snake.svg'></body></html>" > dist/index.html
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
           publish_dir: ./dist

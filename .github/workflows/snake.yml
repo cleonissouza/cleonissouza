@@ -2,35 +2,27 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: cleonissouza
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/snake.svg
 
-      - name: Upload snake animation to repository
-        uses: EndBug/add-and-commit@v9
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: "Update snake animation"
-          add: "*.svg"
+          name: snake
+          path: dist/snake.svg
 
   deploy:
     needs: build
@@ -38,7 +30,11 @@ jobs:
     permissions:
       pages: write
       id-token: write
-
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: snake
+
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4

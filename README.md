@@ -13,6 +13,7 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleonissouza&layout=compact&theme=onedark&border_radius=10)   
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+![Snake animation](https://raw.githubusercontent.com/cleonissouza/cleonissouza/output/github-contribution-grid-snake.svg)
 
 
 ## 🚀 Main Projects
